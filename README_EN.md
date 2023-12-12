@@ -2,7 +2,7 @@ English | [Chinese](./README.md)
 
 <p>
 <strong><h2>無名の主页</h2></strong>
-Simple little homepage, had enough of the original one and made a new one
+Simple little homepage, had enough of the original one and made a new one.
 </p>
 
 ![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
