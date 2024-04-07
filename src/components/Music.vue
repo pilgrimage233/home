@@ -80,6 +80,7 @@ import {
 } from "@icon-park/vue-next";
 import Player from "@/components/Player.vue";
 import { mainStore } from "@/store";
+import { watch } from "vue";
 const store = mainStore();
 
 // 音量条数据
